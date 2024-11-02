@@ -1,0 +1,18 @@
+#  vim:ts=4:sts=4:sw=4:noet
+#
+#  Author: Nho Luong
+#  Date: 2013-02-03 10:25:36 +0000 (Sun, 03 Feb 2013)
+#
+#  https://github.com/nholuongut/devops-perl-tools
+#
+#  License: see accompanying Nho Luong LICENSE file
+#
+#  https://www.linkedin.com/in/nholuong
+#
+
+# ============================================================================ #
+#                        Alpine CPAN Package Requirements
+# ============================================================================ #
+
+perl-crypt-rc4
+perl-template-toolkit

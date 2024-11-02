@@ -1,0 +1,26 @@
+{
+  "id": "DevOps-Perl-tools",
+  "plugin_id": "yaml.config.plugin",
+  "material": {
+    "type": "git",
+    "attributes": {
+  	"url": "https://github.com/nholuongut/devops-perl-tools",
+  	"branch": "master",
+  	"auto_update": true
+    }
+  },
+  "configuration": [
+    {
+      "key": "file_pattern",
+      "value": "cicd/*.gocd.y*ml"
+    }
+  ],
+  "rules": [
+    {
+  	"directive": "allow",
+  	"action": "*",
+  	"type": "*",
+  	"resource": "*"
+    }
+  ]
+}

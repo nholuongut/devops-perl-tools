@@ -1,0 +1,20 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/nholuongut/lib
+	branch = master
+[submodule "bash-tools"]
+	path = bash-tools
+	url = https://github.com/nholuongut/DevOps-Bash-tools
+	branch = master
+[submodule "sql"]
+	path = sql
+	url = https://github.com/nholuongut/SQL-scripts
+[submodule "templates/kubernetes"]
+	path = templates/kubernetes
+	url = https://github.com/nholuongut/Kubernetes-templates
+[submodule "sql-keywords"]
+	path = sql-keywords
+	url = https://github.com/nholuongut/SQL-keywords
+[submodule "templates"]
+	path = templates
+	url = https://github.com/nholuongut/Templates
